@@ -1,0 +1,11 @@
+DID	Doctor's name	Specialization	T1	T2	T3
+001	A.B.Wijesinghe	Cardiologist	N	N	N
+002	A.P.R.Nawaz	Cardiologist	N	N	Y
+003	M.Ekanayake	Immunologist	N	Y	N
+004	C.Ranaraja	Immunologist	N	Y	Y
+005	L.Sandun	Dermatologist	Y	N	N
+006	S.Rathnayake	Dermatologist	Y	N	Y
+007	D.Fernando	Physician	Y	Y	N
+008	G.Jayaweera	Physician	Y	Y	Y
+009	P.Ranasinghe	Andrologist	N	N	N
+010	T.Jayakody	Andrologist	N	Y	Y			

@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------------------------
+Welcome to e-Channeling service.We provide consultation services for following specializations
+	*Cardiology
+	*Immunology
+	*Dermatology
+	*General physician
+	*Andrology
+You Can make an appoinment in following time slots:
+	1)6.30  a.m -  7.30  a.m
+	2)4.30  p.m -  5.30  p.m
+	3)6.30  p.m -  7.30  p.m
+Please find a doctor by giving first 4 letters of the specialization
+------------------------------------------------------------------------------------------
+					
